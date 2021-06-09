@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>625067386489-50enerbg8vt9rdohhb1nkv9r440repva.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.625067386489-50enerbg8vt9rdohhb1nkv9r440repva</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBih5PUTYeYkRFGoeaUVJE3HlG4_xgxZ1E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>625067386489</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.18521616.flutterchatdemo</string>
+	<key>PROJECT_ID</key>
+	<string>flutterchatdemo-1698a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutterchatdemo-1698a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:625067386489:ios:3433bbb79dc67af64c16a8</string>
+	<key>DATABASE_URL</key>
+	<string>https://flutterchatdemo-1698a-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
